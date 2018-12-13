@@ -5,3 +5,4 @@ Git is free good software
 Git has a mutable index called stage
 Git tracks changes.
 y stupid boss still prefers SVN.
+·ÖÖ§²Ù×÷£¡£¡
