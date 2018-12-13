@@ -3,15 +3,6 @@ Git is a version control system.
 Git is free software
 Git is free good software
 Git has a mutable index called stage
-<<<<<<< HEAD:gitDemo1/demo.txt
-Git tracks changes.
-
-
-
-
-qqqqqqMy stupid boss still prefers SVN.
-=======
 Git tracks ch
 y stupid boss still prefers SVN.
 
->>>>>>> dev:gitSt/demo.txt
